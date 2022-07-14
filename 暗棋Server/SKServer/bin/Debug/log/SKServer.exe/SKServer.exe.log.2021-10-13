@@ -1,0 +1,4 @@
+2021-10-13 14:08:45,557 ERROR63 - System.FormatException: 指定的 IP 位址無效。
+   於 System.Net.IPAddress.InternalParse(String ipString, Boolean tryParse)
+   於 System.Net.IPAddress.Parse(String ipString)
+   於 SKServer.Form1.Init() 於 d:\暗棋Server\SKServer\Form1.cs: 行 47
